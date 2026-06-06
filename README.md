@@ -209,6 +209,50 @@ screenshots/dashboard_home.png
 * Most movies fall within a common duration range, indicating standard content length patterns.
 
 ---
+## 🌐 Live Dashboard Deployment
+
+The Netflix Content Analytics Dashboard is deployed using Streamlit Community Cloud and can be accessed online without installing any software.
+
+### Live Demo
+
+**Dashboard URL:**
+[https://netflixcontentanalyticsdashboard-zsoywt8nols2razz7mwm8h.streamlit.app/]
+
+### Deployment Platform
+
+* Streamlit Community Cloud
+* GitHub Repository Integration
+* Automatic Updates on New Commits
+
+### Deployment Workflow
+
+1. Developed the dashboard locally using Python and Streamlit.
+2. Uploaded the project to GitHub.
+3. Connected the GitHub repository to Streamlit Community Cloud.
+4. Configured project dependencies using `requirements.txt`.
+5. Deployed the application and made it publicly accessible.
+
+### Features Available in the Live Dashboard
+
+* Interactive Filters
+* KPI Metrics
+* Content Type Analysis
+* Rating Distribution Analysis
+* Top Countries Analysis
+* Genre Analysis
+* Content Growth Trends
+* Movie Duration Distribution
+* Responsive Dashboard Design
+
+### Repository
+
+GitHub Repository:
+https://github.com/zunaira1607/Netflix_Content_Analytics_Dashboard
+
+### Access
+
+Users can access the dashboard directly through the web browser without downloading or installing any software.
+
 
 ## 👩‍💻 Author
 
