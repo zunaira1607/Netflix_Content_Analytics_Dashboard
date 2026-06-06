@@ -40,7 +40,7 @@ st.write("Current Working Directory:", os.getcwd())
 # LOAD DATA
 # ---------------------------
 
-df = pd.read_csv("C:/Users/User/OneDrive/Desktop/NCA/data/netflix_cleaned.csv")
+df = pd.read_csv("data/netflix_cleaned.csv")
 
 # ---------------------------
 # SIDEBAR
