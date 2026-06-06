@@ -33,7 +33,9 @@ st.set_page_config(
     page_icon="🎬",
     layout="wide"
 )
+import os
 
+st.write("Current Working Directory:", os.getcwd())
 # ---------------------------
 # LOAD DATA
 # ---------------------------
